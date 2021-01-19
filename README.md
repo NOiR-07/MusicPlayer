@@ -10,17 +10,12 @@
  
  **HURRAY**         
    
-   
-   **HOW TO RUN THIS FILES**
+   # Library needed for this project
 
-# pip install pygame
+- pip install pygame
 
-# install this library first
 
-# Choose the music directory from your system and add the file
 
-# select the song and click on play
 
-# use pause , resume or stop as needed
 
 
